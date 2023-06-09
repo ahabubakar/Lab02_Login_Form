@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">Login Form</string>
     <string name="header_text">Enter your username and password</string>
-    <string name="Username">Username:</string>
-    <string name="Password">Password:</string>
+    <string name="Username_label">Username:</string>
+    <string name="Password_label">Password:</string>
+    <string name="Login_button">Login:</string>
     <string name="add_text_validation"> please fill in all fields</string>
 </resources>
